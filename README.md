@@ -11,3 +11,8 @@ Khoá: 2019 (K14)
 Ngành: Khoa học máy tính
 
 Chương trình: CLC
+
+## Thành viên nhóm (mã nhóm: DDD)
+Lưu Anh Dũng - 19521392
+
+Nguyễn Trọng Doanh - 19521368
