@@ -13,6 +13,6 @@ Ngành: Khoa học máy tính
 Chương trình: CLC
 
 ## Thành viên nhóm (mã nhóm: DDD)
-Lưu Anh Dũng - 19521392
+Lưu Anh Dũng - 19521392 - https://github.com/anhdungbmt2001/CS519.M11.KHCL
 
 Nguyễn Trọng Doanh - 19521368 
