@@ -15,4 +15,4 @@ Chương trình: CLC
 ## Thành viên nhóm (mã nhóm: DDD)
 Lưu Anh Dũng - 19521392
 
-Nguyễn Trọng Doanh - 19521368 - https://github.com/NguyenTrongDoanh/About-Me
+Nguyễn Trọng Doanh - 19521368 - https://github.com/NguyenTrongDoanh
